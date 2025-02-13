@@ -1,0 +1,4 @@
+"Reference","Value","Footprint","QUANTITY"
+"D1-D5","LED","LED_THT:LED_D3.0mm_FlatTop","5"
+"J1","Conn_01x23_Pin","Connector_PinSocket_2.54mm:PinSocket_1x23_P2.54mm_Vertical","1"
+"U1-U6","VCAN16A2","analog_computing:VCAN16A2-03S-E3-08","6"
